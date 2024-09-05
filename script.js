@@ -4,7 +4,7 @@ const searchButtonEl = document.getElementById("searchBtn");
 const profileContainerEl = document.getElementById("profileContainer");
 const loadingEl = document.getElementById("loading");
 const generateProfile = (profile) => {
-  return `
+  return ` 
    <div class="profile-box"> 
    <div class="top-section">
      <div class="left">
