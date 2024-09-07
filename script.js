@@ -7,7 +7,7 @@ const generateProfile = (profile) => {
   return ` 
    <div class="profile-box"> 
    <div class="top-section">
-     <div class="left">
+     <div class="left"> 
        <div class="avatar">
          <img alt="avatar" src="${profile.avatar_url}" />
        </div>
