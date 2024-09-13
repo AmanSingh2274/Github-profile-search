@@ -1,4 +1,4 @@
-# GitHub Profile Search:---- 
+# GitHub Profile Search:----
 ## Overview
 
 GitHub Profile Search is a simple tool designed to search and display user profiles on GitHub. This application allows you to retrieve and view detailed information about any GitHub user by entering their username. It leverages the GitHub API to fetch profile data such as repositories, followers, following, and more.
