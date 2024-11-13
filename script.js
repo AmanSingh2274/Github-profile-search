@@ -2,7 +2,7 @@ const url = "https://api.github.com/users";
 const searchInputEl = document.getElementById("searchInput");
 const searchButtonEl = document.getElementById("searchBtn");
 const profileContainerEl = document.getElementById("profileContainer");
-const loadingEl = document.getElementById("loading");
+const loadingEl =  document.getElementById("loading");
 const generateProfile = (profile) => {
   return ` 
    <div class="profile-box">
